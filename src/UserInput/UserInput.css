@@ -1,0 +1,11 @@
+.userInput input {
+  border: 2px solid red;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+
+.userInput {
+  text-align: center;
+  padding-bottom: 10px;
+}
